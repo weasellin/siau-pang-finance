@@ -1,0 +1,24 @@
+# API Keys and Secrets
+# DO NOT commit your actual API keys
+app.js.local
+config.js
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+.cache/
