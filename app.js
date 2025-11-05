@@ -1,8 +1,8 @@
 // Google Sheets API Configuration
 // IMPORTANT: You need to replace these with your own credentials
 // Get them from: https://console.cloud.google.com/
-const CLIENT_ID = '64745166491-u19mtp9gggqdnnrccjqmt2jl64hkaqbv.apps.googleusercontent.com';
-const API_KEY = 'AIzaSyBSthVSBxxdqP6ZAX3tgI24fETMkp_wKXE';
+const CLIENT_ID = '{}.apps.googleusercontent.com';
+const API_KEY = '{}';
 const DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
 const SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly';
 
